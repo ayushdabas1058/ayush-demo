@@ -1,4 +1,4 @@
 # ayush-demo
 first repository
 <br>
-author-Ayush Dabas
+author-Ayush Dabas(student)
